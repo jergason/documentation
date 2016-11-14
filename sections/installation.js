@@ -214,7 +214,7 @@ export default [
   },
   {
     type: "text",
-    content: "For convenience, the any migration configuration may be specified when initializing the library. Read the [Migrations](#Migrations) section for more information and a full list of configuration options."
+    content: "For convenience, migration configuration may be specified when initializing the library. Read the [Migrations](#Migrations) section for more information and a full list of configuration options."
   },
   {
     type: "code",
